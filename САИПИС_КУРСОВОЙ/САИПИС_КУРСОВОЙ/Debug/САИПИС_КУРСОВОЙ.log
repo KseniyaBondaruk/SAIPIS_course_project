@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(59): warning C4101: e: неиспользованная локальная переменная
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(66): warning C4101: e: неиспользованная локальная переменная
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(137): warning C4101: e: неиспользованная локальная переменная
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(508): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(509): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(603): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(634): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(640): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(695): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\thinkpad\source\repos\саипис_курсовой\саипис_курсовой\source.cpp(714): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  САИПИС_КУРСОВОЙ.vcxproj -> C:\Users\ThinkPad\source\repos\САИПИС_КУРСОВОЙ\Debug\САИПИС_КУРСОВОЙ.exe
